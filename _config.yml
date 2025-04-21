@@ -28,7 +28,7 @@ twitter_username: "xrmsolutionsuk"
 github_username:  "xrmsolutionsuk"
 
 # Build settings
-theme: minima
+remote_theme: agency
 plugins:
   - jekyll-feed
 
